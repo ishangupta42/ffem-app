@@ -7047,6 +7047,30 @@
       ]
     },
     {
+      "name": "Arsenic (III) B",
+      "type": "water",
+      "subtype": "cuvette",
+      "uuid": "cd2c11fc-8f03-4ed6-8ce8-16981339ed61",
+      "image": "ffem",
+      "imageScale": "centerCrop",
+      "calibrate": true,
+      "ranges": "0,0.5,0.1,0.3,0.4,0.5",
+      "monthsValid": 2,
+      "dilutions": [
+        1,
+        2,
+        5
+      ],
+      "results": [
+        {
+          "id": 1,
+          "name": "Arsenic (III)",
+          "unit": "mg/l",
+          "timeDelay": 600
+        }
+      ]
+},
+    {
       "name": "E.coli – Aquagenx CBT",
       "type": "water",
       "subtype": "cbt",
